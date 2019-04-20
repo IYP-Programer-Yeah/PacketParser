@@ -1,0 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/18bc9fe2d9ae4f46aefc4575c00a2e30)](https://app.codacy.com/app/IYP-Programer-Yeah/PacketParser?utm_source=github.com&utm_medium=referral&utm_content=IYP-Programer-Yeah/PacketParser&utm_campaign=Badge_Grade_Dashboard)
+[![Build Status](https://travis-ci.com/IYP-Programer-Yeah/PacketParser.svg?branch=master)](https://travis-ci.com/IYP-Programer-Yeah/PacketParser)
+[![CodeFactor](https://www.codefactor.io/repository/github/iyp-programer-yeah/PacketParser/badge)](https://www.codefactor.io/repository/github/iyp-programer-yeah/PacketParser)
+[![codecov](https://codecov.io/gh/IYP-Programer-Yeah/PacketParser/branch/master/graph/badge.svg)](https://codecov.io/gh/IYP-Programer-Yeah/PacketParser)
