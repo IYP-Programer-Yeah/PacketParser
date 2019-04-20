@@ -1,4 +1,4 @@
-project(PackerParser)
+project(PacketParser)
 
 add_custom_target(${PROJECT_NAME}_HEADERS ALL
 	${CMAKE_COMMAND} -E make_directory ${LOCAL_INCLUDE_DIR}/${PROJECT_NAME}
