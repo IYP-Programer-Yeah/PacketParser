@@ -1,0 +1,9 @@
+[submodule "Dependencies/MDP"]
+	path = Dependencies/MDP
+	url = https://github.com/IYP-Programer-Yeah/MDP
+[submodule "Dependencies/Utility"]
+	path = Dependencies/Utility
+	url = https://github.com/IYP-Programer-Yeah/Utility
+[submodule "Dependencies/googletest"]
+	path = Dependencies/googletest
+	url = https://github.com/google/googletest
